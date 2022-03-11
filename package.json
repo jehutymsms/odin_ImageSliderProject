@@ -1,0 +1,27 @@
+{
+  "name": "odin_imageslider",
+  "version": "1.0.0",
+  "description": "Simple Project for Practicing Functionality of image slider",
+  "main": "myScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jehutymsms/odin_ImageSliderProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jehutymsms/odin_ImageSliderProject/issues"
+  },
+  "homepage": "https://github.com/jehutymsms/odin_ImageSliderProject#readme",
+  "dependencies": {
+    "webpack": "^5.70.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0"
+  }
+}
