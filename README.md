@@ -1,1 +1,0 @@
-Simple Project for Practicing Functionality of image slider
